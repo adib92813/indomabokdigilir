@@ -170,7 +170,11 @@ export default async function Video({ params }: PageProps) {
                 <CardContent>
                     <div className="grid grid-flow-row lg:grid-flow-col">
             <p>Video bokep indo terbaru viral {file.title} di {SITENAME} Video Bokep Indo Jepang Jav Barat Simontok Viral Terbaru Bocil Ngentot Jilbab Smp Mama Sma korea china tante live paksa ngentot abg cewek pelajar pijat Hijab Abg Colmek Film Tante Hot Twitter Asia Download Live stw situs indonesia nonton link sd crot playbokep simontok bokepin montok baru perawan anak kecil telegram selingkuh ojol cantik gay vidio lokal artis pelajar janda streaming jepang barat korea japan jav cina japanese china rusia arab india thailand hd anime hentai bokepind gudang avtub pijat sotwe rumah pemerkosaan inggris xpanas pure tobrut vcs ngintip binor remaja yandex update perselingkuhan wiki raja full com porno indoh</p>
-<iframe title='ads' allowFullScreen={true} frameBorder={0} height='250' scrolling='no' src='https://labtasum2.blogspot.com' width='300'></iframe>
+<script
+      dangerouslySetInnerHTML={{
+         __html: `(adsbyjuicy = window.adsbyjuicy || []).push({'adzone':718533})`,
+      }}
+   /><Script data-cfasync="false" async src="https://poweredby.jads.co/js/jads.js"/><ins id="718533" data-width="300" data-height="262"></ins>
                         <Table>
                             <TableBody>
                                 <TableRow>
@@ -214,11 +218,19 @@ export default async function Video({ params }: PageProps) {
                     </div>
                 </CardContent>
             </Card>
-<iframe title='ads' allowFullScreen={true} frameBorder={0} height='250' scrolling='no' src='https://labtasum3.blogspot.com' width='300'></iframe>
+<script
+      dangerouslySetInnerHTML={{
+         __html: `(adsbyjuicy = window.adsbyjuicy || []).push({'adzone':718532})`,
+      }}
+   /><Script data-cfasync="false" async src="https://poweredby.jads.co/js/jads.js"/><ins id="718532" data-width="300" data-height="262"></ins>
             <h2 className="text-2xl font-bold text-center my-4">
                 Related Video {file.title}
             </h2>
-<iframe title='ads' allowFullScreen={true} frameBorder={0} height='250' scrolling='no' src='https://labtasum.blogspot.com' width='300'></iframe>
+<script
+      dangerouslySetInnerHTML={{
+         __html: `(adsbyjuicy = window.adsbyjuicy || []).push({'adzone':718531})`,
+      }}
+   /><Script data-cfasync="false" async src="https://poweredby.jads.co/js/jads.js"/><ins id="718531" data-width="300" data-height="262"></ins>
 <Script src="https://js.juicyads.com/jp.php?c=947403z2v256s2q2v2b45384&u=http%3A%2F%2Fwww.juicyads.rocks"/>
             <SearchCardList query={file.title.split(" ")[2]} />
         </div>
