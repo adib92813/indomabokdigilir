@@ -1,2 +1,1 @@
-# indomabokdigilir
-indomabokdigilir
+# [indomabokdigilir](https://indomabokdigilir.pages.dev)
